@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/Anchordoctype.html"
+status = 200
